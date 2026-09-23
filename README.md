@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" width="800"/>
+  <img src="logo.png" alt="Logo" width="400"/>
 </p>
 <h3 align="center">I'm a mastery student at School42 (currently doing an internship), previously concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
