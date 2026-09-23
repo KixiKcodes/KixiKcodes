@@ -1,4 +1,3 @@
-<h2 align="center">Hey, I'm</h2>
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
