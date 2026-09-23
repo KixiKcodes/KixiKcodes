@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <p>Programming Languages:</p>
+    <p>Programming/Scripting Languages:</p>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,lua,java,kotlin,powershell,bash" />
     <p>Markup Languages:</p>
     <img src="https://skillicons.dev/icons?i=html,css,markdown,regex" />
