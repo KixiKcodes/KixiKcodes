@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo.png" alt="Logo" width="400"/>
 </p>
-<h3 align="center">Hey there, I'm Noel. I program all kinds of stuff and also do some creative work involving music and game development. This is where you can find all of my open source projects and some of my academic work as well. Be sure to check my blog for more info!</h3>
+<h4 align="justify">Hey there, I'm Noel. I program all kinds of stuff and also do some creative work involving music and game development. This is where you can find all of my open source projects and some of my academic work as well. Be sure to check my blog for more info!</h4>
 
 ### 🔧 &nbsp;My Toolbox
 
